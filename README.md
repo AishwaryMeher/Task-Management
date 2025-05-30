@@ -1,6 +1,6 @@
-# TaskFlow - Full Stack Task Management Application
+# TaskPop - Full Stack Task Management Application
 
-A modern, full-featured task management application built with React, Express.js, and MongoDB. TaskFlow helps teams organize projects, manage tasks, and collaborate effectively.
+A modern, full-featured task management application built with React, Express.js, and MongoDB. TaskPop helps teams organize projects, manage tasks, and collaborate effectively.
 
 ## Features
 

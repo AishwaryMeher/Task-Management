@@ -36,7 +36,7 @@ A modern, full-featured task management application built with React, Express.js
 
 ```bash
 git clone <repository-url>
-cd taskflow
+cd Task-Management
 ```
 
 2. Install dependencies:
